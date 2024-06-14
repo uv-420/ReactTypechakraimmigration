@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Plus Jakarta Sans;
+}
+* {
+  box-sizing: border-box;
+  line-height: normal;
+  font-family: inherit;
+  margin: unset;
+}
+ul {
+  margin-inline: unset !important;
+}
+.alice-carousel__dots-item {
+  cursor: pointer;
+}
